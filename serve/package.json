@@ -1,0 +1,23 @@
+{
+  "name": "serve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "write": "nodemon waite.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.15.3",
+    "koa-bodyparser": "^4.4.1",
+    "koa-cors": "^0.0.16",
+    "koa-router": "^13.0.1",
+    "koa-static": "^5.0.0",
+    "nodemon": "^3.1.9",
+    "util": "^0.12.5",
+    "uuid": "^11.0.3"
+  }
+}

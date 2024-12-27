@@ -1,0 +1,647 @@
+{
+    "data": [
+        {
+            "foodId": "3",
+            "id": "55d8c7a3-b180-4b27-b7cd-21e8267b7f42",
+            "name": "酱爆金钱肚",
+            "like_ratio_desc": "好评度17%",
+            "month_sales": 918,
+            "unit": "5份",
+            "food_tag_list": [
+                "回头客推荐"
+            ],
+            "price": 92,
+            "picture": "http://10.0.2.2:3100/img/00005酱爆金钱肚.jpg",
+            "description": "这道菜色香味俱全，入口即化，令人回味无穷。",
+            "tag": "044387610",
+            "count": 25
+        },
+        {
+            "foodId": "1",
+            "id": "3b7fb07a-1ed2-4b37-83ae-5ba9d23ab699",
+            "name": "酱彩椒炒鱼线",
+            "like_ratio_desc": "好评度66%",
+            "month_sales": 350,
+            "unit": "10份",
+            "food_tag_list": [
+                "非常下饭"
+            ],
+            "price": 96,
+            "picture": "http://10.0.2.2:3100/img/00014酱彩椒炒鱼线.jpg",
+            "description": "精心挑选新鲜食材，搭配独特酱料，风味一绝。",
+            "tag": "573204200",
+            "count": 42
+        },
+        {
+            "foodId": "3",
+            "id": "e8648d1c-303f-45cd-a9e4-3d12bd22f4ce",
+            "name": "酱脆角掌中宝",
+            "like_ratio_desc": "好评度10%",
+            "month_sales": 718,
+            "unit": "10份",
+            "food_tag_list": [
+                "非常下饭"
+            ],
+            "price": 36,
+            "picture": "http://10.0.2.2:3100/img/00016酱脆角掌中宝.jpg",
+            "description": "制作工艺精湛，口感层次丰富，带来味觉盛宴。",
+            "tag": "862904287",
+            "count": 15
+        },
+        {
+            "foodId": "2",
+            "id": "534abb8a-4403-40cf-a024-6b628fc92ae1",
+            "name": "酱韭菜爆炒河虾仔",
+            "like_ratio_desc": "好评度18%",
+            "month_sales": 335,
+            "unit": "18份",
+            "food_tag_list": [
+                "拼好饭商户"
+            ],
+            "price": 47,
+            "picture": "http://10.0.2.2:3100/img/00018酱韭菜爆炒河虾仔.jpg",
+            "description": "选用上等原料，加入秘制调料，鲜香四溢。",
+            "tag": "962299866",
+            "count": 20
+        },
+        {
+            "foodId": "2",
+            "id": "84bbe4fb-229b-412a-9c56-50c84f85ba2e",
+            "name": "珍菌牛柳",
+            "like_ratio_desc": "好评度51%",
+            "month_sales": 107,
+            "unit": "12份",
+            "food_tag_list": [
+                "店内多人复购"
+            ],
+            "price": 98,
+            "picture": "http://10.0.2.2:3100/img/00022珍菌牛柳.jpg",
+            "description": "酥脆外皮包裹鲜嫩内馅，一口咬下，满是惊喜。",
+            "tag": "510299431",
+            "count": 30
+        },
+        {
+            "foodId": "1",
+            "id": "d34907fc-0a09-4ddf-922e-8b8b7acf8f01",
+            "name": "八宝辣子掌中宝",
+            "like_ratio_desc": "好评度10%",
+            "month_sales": 247,
+            "unit": "12份",
+            "food_tag_list": [
+                "非常下饭"
+            ],
+            "price": 76,
+            "picture": "http://10.0.2.2:3100/img/00031八宝辣子掌中宝.jpg",
+            "description": "经典风味与创新技法结合，散发浓郁香气。",
+            "tag": "741986659",
+            "count": 46
+        },
+        {
+            "foodId": "1",
+            "id": "0a019c80-e237-4c7a-b3ad-3e3be93dc66f",
+            "name": "八宝南瓜",
+            "like_ratio_desc": "好评度84%",
+            "month_sales": 811,
+            "unit": "12份",
+            "food_tag_list": [
+                "店内多人复购"
+            ],
+            "price": 43,
+            "picture": "http://10.0.2.2:3100/img/00033八宝南瓜.jpg",
+            "description": "采用慢火精炖，汤汁浓郁，滋味醇厚。",
+            "tag": "672204813",
+            "count": 49
+        },
+        {
+            "foodId": "3",
+            "id": "cebb31e0-c4f8-4069-8b8a-4c4fcb392834",
+            "name": "八宝茄丁",
+            "like_ratio_desc": "好评度53%",
+            "month_sales": 189,
+            "unit": "18份",
+            "food_tag_list": [
+                "点评网友推荐",
+                "新店优惠88折"
+            ],
+            "price": 60,
+            "picture": "http://10.0.2.2:3100/img/00036八宝茄丁.jpg",
+            "description": "色泽诱人，入口柔嫩，口感细腻爽滑。",
+            "tag": "140238275",
+            "count": 48
+        },
+        {
+            "foodId": "3",
+            "id": "8d8ac721-3df7-40de-b93a-f7ea6862c5c3",
+            "name": "巴蜀毛血旺",
+            "like_ratio_desc": "好评度54%",
+            "month_sales": 725,
+            "unit": "16份",
+            "food_tag_list": [
+                "回头客推荐"
+            ],
+            "price": 63,
+            "picture": "http://10.0.2.2:3100/img/00045巴蜀毛血旺.jpg",
+            "description": "鲜美的食材与独特的调味相得益彰，韵味悠长。",
+            "tag": "084929892",
+            "count": 32
+        },
+        {
+            "foodId": "3",
+            "id": "7b961bf6-a075-4704-be84-2fdf3db9033d",
+            "name": "巴蜀烧四样",
+            "like_ratio_desc": "好评度23%",
+            "month_sales": 465,
+            "unit": "6份",
+            "food_tag_list": [
+                "拼好饭商户"
+            ],
+            "price": 45,
+            "picture": "http://10.0.2.2:3100/img/00046巴蜀烧四样.jpg",
+            "description": "清新淡雅，保留了食材的原汁原味。",
+            "tag": "289424827",
+            "count": 13
+        },
+        {
+            "foodId": "2",
+            "id": "9b070a32-f8d5-4c42-9d53-77a301d0bb7c",
+            "name": "霸王蛇",
+            "like_ratio_desc": "好评度49%",
+            "month_sales": 918,
+            "unit": "18份",
+            "food_tag_list": [
+                "店内多人复购"
+            ],
+            "price": 54,
+            "picture": "http://10.0.2.2:3100/img/00054霸王蛇.jpg",
+            "description": "外观精美，香气扑鼻，是视觉与味觉的双重享受。",
+            "tag": "189035211",
+            "count": 27
+        },
+        {
+            "foodId": "3",
+            "id": "01ff2087-c548-474b-8d8b-1eff0f8f1297",
+            "name": "白菇烧裙边",
+            "like_ratio_desc": "好评度44%",
+            "month_sales": 689,
+            "unit": "20份",
+            "food_tag_list": [
+                "店内多人复购"
+            ],
+            "price": 34,
+            "picture": "http://10.0.2.2:3100/img/00060白菇烧裙边.jpg",
+            "description": "鲜嫩多汁，伴随淡淡的香料味，让人食欲大增。",
+            "tag": "154777606",
+            "count": 49
+        },
+        {
+            "foodId": "2",
+            "id": "96c76e36-267b-4207-86f2-21b02b9040ce",
+            "name": "白果一品豆腐",
+            "like_ratio_desc": "好评度24%",
+            "month_sales": 714,
+            "unit": "17份",
+            "food_tag_list": [
+                "店内多人复购"
+            ],
+            "price": 62,
+            "picture": "http://10.0.2.2:3100/img/00062白果一品豆腐.jpg",
+            "description": "外酥里嫩，搭配秘制酱料，风味独特。",
+            "tag": "378501917",
+            "count": 48
+        },
+        {
+            "foodId": "3",
+            "id": "ca995b66-31b6-40df-9e90-77718cdb05c3",
+            "name": "白椒炒鹅肠",
+            "like_ratio_desc": "好评度55%",
+            "month_sales": 180,
+            "unit": "15份",
+            "food_tag_list": [
+                "拼好饭商户"
+            ],
+            "price": 34,
+            "picture": "http://10.0.2.2:3100/img/00064白椒炒鹅肠.jpg",
+            "description": "秘方腌制，入口即融，余味绕舌。",
+            "tag": "180560656",
+            "count": 46
+        },
+        {
+            "foodId": "2",
+            "id": "f6cad861-751a-4e27-96f8-2a79b71b80cc",
+            "name": "白辣椒炒鸡胗",
+            "like_ratio_desc": "好评度55%",
+            "month_sales": 144,
+            "unit": "16份",
+            "food_tag_list": [
+                "干净卫生"
+            ],
+            "price": 56,
+            "picture": "http://10.0.2.2:3100/img/00075白辣椒炒鸡胗.jpg",
+            "description": "低温烹制，保留营养，呈现极致鲜美。",
+            "tag": "692831895",
+            "count": 17
+        },
+        {
+            "foodId": "3",
+            "id": "01891621-671d-4ecd-a020-7d39ac612dba",
+            "name": "白丽爆牛蛙",
+            "like_ratio_desc": "好评度92%",
+            "month_sales": 568,
+            "unit": "7份",
+            "food_tag_list": [
+                "干净卫生"
+            ],
+            "price": 87,
+            "picture": "http://10.0.2.2:3100/img/00077白丽爆牛蛙.jpg",
+            "description": "选用绿色健康食材，口感鲜香，回味悠长。",
+            "tag": "571030846",
+            "count": 13
+        },
+        {
+            "foodId": "1",
+            "id": "60407684-e923-4b4f-b9de-5eb270e6a3a2",
+            "name": "板栗爆腰花",
+            "like_ratio_desc": "好评度54%",
+            "month_sales": 148,
+            "unit": "8份",
+            "food_tag_list": [
+                "店内多人复购"
+            ],
+            "price": 59,
+            "picture": "http://10.0.2.2:3100/img/00107板栗爆腰花.jpg",
+            "description": "鲜嫩的肉质与爽脆的蔬菜完美结合，风味十足。",
+            "tag": "750092436",
+            "count": 17
+        },
+        {
+            "foodId": "2",
+            "id": "960d8669-a35f-4eea-8152-945d74266173",
+            "name": "板栗子叉烧肉",
+            "like_ratio_desc": "好评度34%",
+            "month_sales": 582,
+            "unit": "16份",
+            "food_tag_list": [
+                "回头客推荐"
+            ],
+            "price": 36,
+            "picture": "http://10.0.2.2:3100/img/00116板栗子叉烧肉.jpg",
+            "description": "色泽金黄，酥脆香浓，是不可错过的佳肴。",
+            "tag": "276138760",
+            "count": 3
+        },
+        {
+            "foodId": "3",
+            "id": "fd73bc7d-ed39-434f-9533-302171fc9464",
+            "name": "板粟烧鹿筋",
+            "like_ratio_desc": "好评度39%",
+            "month_sales": 20,
+            "unit": "19份",
+            "food_tag_list": [
+                "回头客推荐"
+            ],
+            "price": 90,
+            "picture": "http://10.0.2.2:3100/img/00117板粟烧鹿筋.jpg",
+            "description": "酸甜适中，辣而不燥，层次分明，百吃不腻。",
+            "tag": "183346749",
+            "count": 12
+        },
+        {
+            "foodId": "3",
+            "id": "1da1a3f0-81da-459c-8615-c3726c46aca9",
+            "name": "鲍汁茶树菇",
+            "like_ratio_desc": "好评度84%",
+            "month_sales": 534,
+            "unit": "9份",
+            "food_tag_list": [
+                "拼好饭商户"
+            ],
+            "price": 84,
+            "picture": "http://10.0.2.2:3100/img/00136鲍汁茶树菇.jpg",
+            "description": "手工制作，原汁原味，每一口都是匠心所在。",
+            "tag": "335991450",
+            "count": 14
+        },
+        {
+            "foodId": "3",
+            "id": "8cd42643-d45e-42d2-9391-0d8c8640640c",
+            "name": "鲍汁海皇南瓜盅",
+            "like_ratio_desc": "好评度43%",
+            "month_sales": 634,
+            "unit": "19份",
+            "food_tag_list": [
+                "干净卫生"
+            ],
+            "price": 87,
+            "picture": "http://10.0.2.2:3100/img/00137鲍汁海皇南瓜盅.jpg",
+            "description": "浓郁的香气扑面而来，带来无与伦比的享受。",
+            "tag": "843253915",
+            "count": 48
+        },
+        {
+            "foodId": "1",
+            "id": "68277881-bd5c-415a-b612-f8644af35cc2",
+            "name": "鲍汁烘肘子",
+            "like_ratio_desc": "好评度73%",
+            "month_sales": 132,
+            "unit": "14份",
+            "food_tag_list": [
+                "店内多人复购"
+            ],
+            "price": 56,
+            "picture": "http://10.0.2.2:3100/img/00138鲍汁烘肘子.jpg",
+            "description": "汤汁浓稠，肉质鲜嫩，散发迷人的香气。",
+            "tag": "846297579",
+            "count": 5
+        },
+        {
+            "foodId": "2",
+            "id": "2ec5ec6e-9ebe-4fbd-97d7-05faa306ccc6",
+            "name": "浏阳炒脆骨",
+            "like_ratio_desc": "好评度14%",
+            "month_sales": 495,
+            "unit": "12份",
+            "food_tag_list": [
+                "回头客推荐"
+            ],
+            "price": 28,
+            "picture": "http://10.0.2.2:3100/img/100浏阳炒脆骨.jpg",
+            "description": "精选上等海鲜，经过精心烹制，鲜香可口。",
+            "tag": "431226057",
+            "count": 5
+        },
+        {
+            "foodId": "1",
+            "id": "3597de7a-e2df-4ee0-8121-6cda296afe7d",
+            "name": "麻婆海参",
+            "like_ratio_desc": "好评度79%",
+            "month_sales": 73,
+            "unit": "17份",
+            "food_tag_list": [
+                "回头客推荐"
+            ],
+            "price": 84,
+            "picture": "http://10.0.2.2:3100/img/108麻婆海参.jpg",
+            "description": "外层微焦，内里柔嫩，香味在口中久久不散。",
+            "tag": "618900644",
+            "count": 29
+        },
+        {
+            "foodId": "2",
+            "id": "28b52c82-0ad8-43a7-854e-026a00612cc5",
+            "name": "干锅苗家豆腐",
+            "like_ratio_desc": "好评度41%",
+            "month_sales": 872,
+            "unit": "11份",
+            "food_tag_list": [
+                "拼好饭商户"
+            ],
+            "price": 29,
+            "picture": "http://10.0.2.2:3100/img/110干锅苗家豆腐.jpg",
+            "description": "独家秘制酱料，浓郁鲜香，尽显舌尖诱惑。",
+            "tag": "268264708",
+            "count": 46
+        },
+        {
+            "foodId": "3",
+            "id": "d7a7104a-d8c5-4800-8bae-4583caa6570c",
+            "name": "橄榄菜杂菌炒豆角",
+            "like_ratio_desc": "好评度81%",
+            "month_sales": 518,
+            "unit": "14份",
+            "food_tag_list": [
+                "店内多人复购"
+            ],
+            "price": 26,
+            "picture": "http://10.0.2.2:3100/img/120橄榄菜杂菌炒豆角.jpg",
+            "description": "色香味俱佳，搭配细腻的调料，堪称美味佳肴。",
+            "tag": "893799126",
+            "count": 33
+        },
+        {
+            "foodId": "3",
+            "id": "fc1ae7bd-06ed-42f4-a9be-41fa50f5cf8b",
+            "name": "旗花面",
+            "like_ratio_desc": "好评度0%",
+            "month_sales": 836,
+            "unit": "14份",
+            "food_tag_list": [
+                "店内多人复购"
+            ],
+            "price": 94,
+            "picture": "http://10.0.2.2:3100/img/134旗花面.jpg",
+            "description": "每一口都能感受到食材的精华与大厨的用心。",
+            "tag": "704017232",
+            "count": 24
+        },
+        {
+            "foodId": "2",
+            "id": "81daf40b-a63d-40b1-98b2-e428117aa6f6",
+            "name": "炝浆水菜",
+            "like_ratio_desc": "好评度77%",
+            "month_sales": 159,
+            "unit": "18份",
+            "food_tag_list": [
+                "店内多人复购"
+            ],
+            "price": 50,
+            "picture": "http://10.0.2.2:3100/img/137炝浆水菜.jpg",
+            "description": "调味恰到好处，鲜而不腻，香而不燥。",
+            "tag": "964774620",
+            "count": 17
+        },
+        {
+            "foodId": "1",
+            "id": "6bf7aff3-a141-47c7-a381-6662b43bee9d",
+            "name": "赛鲍仔",
+            "like_ratio_desc": "好评度33%",
+            "month_sales": 518,
+            "unit": "5份",
+            "food_tag_list": [
+                "干净卫生"
+            ],
+            "price": 59,
+            "picture": "http://10.0.2.2:3100/img/146赛鲍仔.jpg",
+            "description": "外表精致，口感独特，是一道让人流连忘返的美食。",
+            "tag": "694821613",
+            "count": 2
+        },
+        {
+            "foodId": "1",
+            "id": "be7760d2-57d6-45cb-aa66-e758099b7d3f",
+            "name": "砂窝四季豆",
+            "like_ratio_desc": "好评度58%",
+            "month_sales": 518,
+            "unit": "16份",
+            "food_tag_list": [
+                "店内多人复购"
+            ],
+            "price": 49,
+            "picture": "http://10.0.2.2:3100/img/153砂窝四季豆.jpg",
+            "description": "汤汁鲜美，搭配软嫩的肉质，令人赞不绝口。",
+            "tag": "434703561",
+            "count": 21
+        },
+        {
+            "foodId": "1",
+            "id": "b708b2bc-71b6-483f-bf4f-b0314e9c2b23",
+            "name": "砂窝西葫芦",
+            "like_ratio_desc": "好评度78%",
+            "month_sales": 556,
+            "unit": "12份",
+            "food_tag_list": [
+                "店内多人复购"
+            ],
+            "price": 62,
+            "picture": "http://10.0.2.2:3100/img/156砂窝西葫芦.jpg",
+            "description": "香辣可口，鲜嫩多汁，吃完仍唇齿留香。",
+            "tag": "297343490",
+            "count": 44
+        },
+        {
+            "foodId": "2",
+            "id": "37dce60b-803e-4f29-bf23-c101c4cf9738",
+            "name": "带皮羊筋",
+            "like_ratio_desc": "好评度12%",
+            "month_sales": 243,
+            "unit": "10份",
+            "food_tag_list": [
+                "非常下饭"
+            ],
+            "price": 61,
+            "picture": "http://10.0.2.2:3100/img/27带皮羊筋.jpg",
+            "description": "创新与传统结合，风味独树一帜，独具匠心。",
+            "tag": "569157747",
+            "count": 38
+        },
+        {
+            "foodId": "1",
+            "id": "bba210d3-5b89-46b1-8a3f-1da60ea8535f",
+            "name": "孜然马面鱼",
+            "like_ratio_desc": "好评度21%",
+            "month_sales": 352,
+            "unit": "17份",
+            "food_tag_list": [
+                "点评网友推荐",
+                "新店优惠88折"
+            ],
+            "price": 82,
+            "picture": "http://10.0.2.2:3100/img/35孜然马面鱼.jpg",
+            "description": "酸辣开胃，香脆适口，是一道不可多得的美味。",
+            "tag": "250659232",
+            "count": 28
+        },
+        {
+            "foodId": "3",
+            "id": "b3d780a2-f54c-4566-928b-20da296ef9b6",
+            "name": "葱炒宜君豆腐",
+            "like_ratio_desc": "好评度66%",
+            "month_sales": 436,
+            "unit": "14份",
+            "food_tag_list": [
+                "店内多人复购"
+            ],
+            "price": 24,
+            "picture": "http://10.0.2.2:3100/img/43葱炒宜君豆腐.jpg",
+            "description": "肉质鲜嫩，香料浓郁，带来极致的味蕾体验。",
+            "tag": "866163786",
+            "count": 10
+        },
+        {
+            "foodId": "2",
+            "id": "77328c5f-03a5-4270-acec-abbce128acd7",
+            "name": "霸王蛇",
+            "like_ratio_desc": "好评度100%",
+            "month_sales": 800,
+            "unit": "19份",
+            "food_tag_list": [
+                "拼好饭商户"
+            ],
+            "price": 53,
+            "picture": "http://10.0.2.2:3100/img/54霸王蛇.jpg",
+            "description": "滑嫩与酥脆并存，带来丰富的口感享受。",
+            "tag": "748912768",
+            "count": 11
+        },
+        {
+            "foodId": "2",
+            "id": "f7e9aa8b-bd41-461f-a8d9-8c93018fecf7",
+            "name": "古汉养生鸡",
+            "like_ratio_desc": "好评度71%",
+            "month_sales": 737,
+            "unit": "8份",
+            "food_tag_list": [
+                "干净卫生"
+            ],
+            "price": 67,
+            "picture": "http://10.0.2.2:3100/img/58古汉养生鸡.jpg",
+            "description": "经过长时间慢炖，汤汁浓厚，入口香醇。",
+            "tag": "067434529",
+            "count": 11
+        },
+        {
+            "foodId": "1",
+            "id": "e827b7ee-c9d0-4cdf-bc08-874d00deac92",
+            "name": "久久醋滑肉",
+            "like_ratio_desc": "好评度99%",
+            "month_sales": 464,
+            "unit": "8份",
+            "food_tag_list": [
+                "非常下饭"
+            ],
+            "price": 99,
+            "picture": "http://10.0.2.2:3100/img/79久久醋滑肉.jpg",
+            "description": "精选农家有机蔬菜，搭配健康烹饪方式，原汁原味。",
+            "tag": "386144547",
+            "count": 29
+        },
+        {
+            "foodId": "2",
+            "id": "517c56a9-d971-4b6b-b192-57c8c0e4e8a8",
+            "name": "开胃酱香肉",
+            "like_ratio_desc": "好评度76%",
+            "month_sales": 946,
+            "unit": "17份",
+            "food_tag_list": [
+                "干净卫生"
+            ],
+            "price": 88,
+            "picture": "http://10.0.2.2:3100/img/87开胃酱香肉.jpg",
+            "description": "秘制香料点缀，赋予这道菜与众不同的魅力。",
+            "tag": "737642574",
+            "count": 29
+        },
+        {
+            "foodId": "1",
+            "id": "d559a911-7699-4270-a2c2-44c39b32756e",
+            "name": "腊味合蒸",
+            "like_ratio_desc": "好评度68%",
+            "month_sales": 692,
+            "unit": "6份",
+            "food_tag_list": [
+                "点评网友推荐",
+                "新店优惠88折"
+            ],
+            "price": 79,
+            "picture": "http://10.0.2.2:3100/img/92腊味合蒸.jpg",
+            "description": "咸甜交织，层次丰富，带来别具一格的美味享受。",
+            "tag": "876889658",
+            "count": 22
+        },
+        {
+            "foodId": "3",
+            "id": "e46accda-254b-425a-b679-a85b55317cc4",
+            "name": "老四川肺片",
+            "like_ratio_desc": "好评度9%",
+            "month_sales": 517,
+            "unit": "7份",
+            "food_tag_list": [
+                "店内多人复购"
+            ],
+            "price": 24,
+            "picture": "http://10.0.2.2:3100/img/97老四川肺片.jpg",
+            "description": "独特风味与精湛手艺碰撞，诠释了美食的极致魅力。",
+            "tag": "171510834",
+            "count": 10
+        }
+    ]
+}
